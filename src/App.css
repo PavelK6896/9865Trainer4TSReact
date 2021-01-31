@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.button1 {
+  background-color: rgba(102, 23, 108, 0.5);
+  height: 5rem;
+  width: 10rem;
+
+}
